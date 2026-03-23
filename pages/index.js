@@ -1,8 +1,8 @@
 function Home() {
   return (
     <h1>
-      Você sabe quantos e quais livros você tem? Aqui será construído um lugar
-      em que você pode organizar sua biblioteca virtualmente!
+      Você sabe quantos e quais livros você tem? Se pá um dia vou te ajudar a
+      descobrir kk
     </h1>
   );
 }
